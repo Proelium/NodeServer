@@ -1,0 +1,6 @@
+[submodule "WebClient"]
+	path = WebClient
+	url = https://github.com/Proelium/WebClient.git
+[submodule "Graphics"]
+	path = Graphics
+	url = https://github.com/Proelium/Graphics.git
