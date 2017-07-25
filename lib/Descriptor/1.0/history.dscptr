@@ -30,7 +30,7 @@ rank = II
 rank = III
 
 story = About the year $year, $name $rank ruled over $prefix$suffix. But, after awhile, they died and $name $rank became the ruler.
-story = $prefix$suffix came about in $year. They participated in the $war, but, around the year $year, they were attacked by the $name's. Every man and woman died that day, but the children carried on their parents' legacy. The reason why you are here is to destroy the ones who first destroyed us.
+story = $prefix$suffix came about in $year. They participated in the $war, but, around the year $year, they were attacked by the $prefix$suffix's. Every man and woman died that day, but the children carried on their parents' legacy. The reason why you are here is to destroy the ones who first destroyed us.
 story = It was the year $year when $prefix$suffix was founded. They had the largest country in the land, yet, they weren't $condition. After wars, their soldiers would die from lack of $item. Although they had the largest country, they were quickly dying out. That's why you are here. To bring back this country to its former glory!
 
 generate = $story
