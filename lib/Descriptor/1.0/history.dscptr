@@ -1,0 +1,23 @@
+year = 1456
+year = 1675
+year = 1751
+
+suffix = field
+suffix = ford
+suffix = red
+
+prefix = West
+prefix = North
+prefix = East
+
+name = King Henry
+name = King Thomas
+name = Queen Elizabeth
+
+rank = I
+rank = II
+rank = III
+
+story = About the year @year, $name $rank ruled over $prefix$suffix. But, after awhile, they died and $name $rank became the ruler.
+
+generate = $story
