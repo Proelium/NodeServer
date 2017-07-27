@@ -12,4 +12,4 @@ The node based server for Proelium
 When the server is running in the terminal use `Press enter` -> `Game` -> `Create` -> `Small`
 
 ## Stop the server
-Use `crtl + C`
+Use `ctrl + C`
