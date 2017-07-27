@@ -51,7 +51,7 @@ commands.go = function () {
 	inquirer.prompt([{
 		type: "list",
 		name: "commands",
-		message: "Comamnd interface",
+		message: "Command interface",
 		choices: ["Game", "Stop"],
 		filter: function (val) {
 			return val.toLowerCase();
