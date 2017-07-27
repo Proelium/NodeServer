@@ -1,0 +1,13 @@
+{
+	"name": "proelium",
+	"version": "1.0",
+	"dependencies": {
+		"lokijs": "*",
+		"express": "*",
+		"socket.io": "*",
+		"google-auth-library": "*",
+		"fast-simplex-noise": "*",
+		"seedrandom": "*",
+		"inquirer": "*"
+	}
+}
