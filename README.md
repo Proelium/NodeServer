@@ -6,7 +6,7 @@ The node based server for Proelium
 * `cd NodeServer`
 * `npm install`
 * `node start.js` to start server
-* Navivate to `http://localhost/`
+* Navigate to `http://localhost/`
 
 ## Creating a game
 When the server is running in the terminal use `Press enter` -> `Game` -> `Create` -> `Small`
